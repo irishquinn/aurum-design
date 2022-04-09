@@ -1,0 +1,15 @@
+/*
+Theme Name: WR Nitro Child Theme
+Theme URI: https://www.aurumdesign.com/
+Author: TrentCreative
+Author URI: https://trentcreative.com
+Description: Custom Theme for Aurum Design Jewelry
+Version: 1.1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Template: wr-nitro
+Text Domain: wr-nitro
+
+/*
+- - - - - - - - - - - - - - - - - - - - */
+#shop-detail > div.container > div > div:nth-child(2) > div > div.p-single-action.nitro-line.btn-inline.pdb20.clear > form > div.variations.pr > div:nth-child(2) {display: none !important;}
